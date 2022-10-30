@@ -12,4 +12,5 @@ For reference, the source catalog -- where we identified the stars to observe --
 So the star named "998" from the data collected under 106.212B.001 should correspond to star 998 in the Hur et al. catalog. 
 
 The pipeline: 
+
 Software to reduce data from GIRAFFE/FLAMES is available from ESO: https://eso.org/sci/software/pipelines/
