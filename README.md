@@ -1,6 +1,6 @@
 The notebook provides the source code for all the analysis peformed on the spectra of hundreds of low-mass stars in the central clusters of the Carina Nebula. 
 
-Note: Versions <8.5 of `P106_spectra_analyzer` have not been recovered from loss and thus are not included.
+Note: Versions <8.5 of `P106_spectra_analyzer` have not been recovered from data loss and thus are not included.
 
 The data can be downloaded from the ESO science archive: 
 https://archive.eso.org/cms.html
