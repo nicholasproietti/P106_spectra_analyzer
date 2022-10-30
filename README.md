@@ -16,4 +16,4 @@ Although one may choose to install the [pipeline](https://eso.org/sci/software/p
 ## The source catalog
 For reference, the source catalog -- where we identified the stars to observe -- is [Hur et al. 2012](https://ui.adsabs.harvard.edu/abs/2012AJ....143...41H/abstract). `table1.dat` lists the`IDs` of all sources in the catalog with spectral information. 
 
-So the star named "998" from the data collected under 106.212B.001 should correspond to star 998 in the Hur et al. catalog. 
+For example, the star named "998" from the data collected under 106.212B.001 should correspond to star 998 in the Hur et al. catalog. 
