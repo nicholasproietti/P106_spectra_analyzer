@@ -1,6 +1,6 @@
 # P106 Spectra Analyzer
 
-The notebook provides the source code for all the analysis peformed on the spectra of hundreds of low-mass stars in the central clusters of the Carina Nebula for the ESO programme ID 106.212B.001.
+The notebook provides the source code for all the analysis peformed on the spectra of hundreds of low-mass stars in the central clusters of the Carina Nebula for the ESO programme ID **106.212B.001**.
 
 Note: Versions <8.5 of `P106_spectra_analyzer` have not been recovered from data loss and thus are not included.
 
