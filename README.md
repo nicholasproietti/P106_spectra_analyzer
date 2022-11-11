@@ -14,6 +14,6 @@ The PID is [106.212B.001](https://archive.eso.org/wdb/wdb/eso/sched_rep_arc/quer
 The [pipeline](https://eso.org/sci/software/pipelines/) to reduce data from GIRAFFE/FLAMES is available for installation from ESO.
 
 ## The source catalog
-For reference, the source catalog -- where we identified the stars to observe -- is [Hur et al. 2012](https://ui.adsabs.harvard.edu/abs/2012AJ....143...41H/abstract). `table1.dat` lists the`IDs` of all sources in the catalog with spectral information. 
+For reference, the source catalog -- where we identified the stars to observe -- is [Hur et al. 2012](https://ui.adsabs.harvard.edu/abs/2012AJ....143...41H/abstract). `table1.dat` lists the `IDs` of all sources in the catalog with spectral information. 
 
 For example, the star named "998" from the data collected under 106.212B.001 should correspond to star 998 in the Hur et al. catalog. 
