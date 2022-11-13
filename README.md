@@ -22,6 +22,7 @@ The static calibrations should usually be "found" in the directory (or subdirect
 
 Download the RAW data from the ESO Science Archive Facility (SAF) and the associated calibration files. Please see [this CalSelector webpage](http://archive.eso.org/cms/application_support/calselectorInfo.html) to see how to use the CalSelector service that automates the process of associating calibrations to science files for downloading from the ESO SAF. In step 4 of the procedure documented at the Calselector webpage, be sure to selected the associated raw calibrations, NOT the associated processed calibrations, as the GIRAFFE workflow, like most of the ESO instrument pipelines, can not make use of processed calibrations (and the will more likely confuse the workflow and cause it to crash).
 
+The downloaded data will be packaged in `.Z` files. Try `gunzip -vt *.Z` to see if there are any problems. If none, then `gunzip *.Z` to extract the files.
 
 ## The pipeline
 The [pipeline](https://eso.org/sci/software/pipelines/) to reduce data from GIRAFFE/FLAMES is available for installation from ESO.
